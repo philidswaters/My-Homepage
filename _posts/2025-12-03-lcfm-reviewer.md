@@ -7,4 +7,4 @@ tags:
   - reviewing
 ---
 
-I accepted the invitation to serve as a reviewer for the LCFM 205 workshop.
+I accepted the invitation to serve as a reviewer for the LCFM 2025 workshop.
